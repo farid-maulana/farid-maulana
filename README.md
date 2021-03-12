@@ -30,5 +30,5 @@
 
 <p align="left">
 <a href="mailto:faridmaulana1921@gmail.com"><img src="https://img.shields.io/badge/-faridmaulana1921@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/faridmaulana2021_"><img src="https://img.shields.io/badge/-@faridmaulana2021_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/faridmaulana2021_"><img src="https://img.shields.io/badge/-@faridmaulana2021__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
